@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DeribitPricer.App/DeribitPricer.App.csproj" />
+  <Project Path="DeribitPricer.Metier/DeribitPricer.Metier.csproj" />
+  <Project Path="DeribitPricer.Tests/DeribitPricer.Tests.csproj" />
+</Solution>
