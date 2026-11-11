@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/x4nWYD+ZH4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Doryan\\Desktop\\EIF M2\\C#\\Projet_V2\\DeribitPricer.Metier\\DeribitPricer.Metier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doryan\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Doryan\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\Doryan\\.nuget\\packages\\microsoft.office.interop.excel\\16.0.18925.20022\\microsoft.office.interop.excel.16.0.18925.20022.nupkg.sha512"
+  ],
+  "logs": []
+}

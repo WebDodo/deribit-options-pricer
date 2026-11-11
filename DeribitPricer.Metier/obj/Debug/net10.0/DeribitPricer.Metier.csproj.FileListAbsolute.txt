@@ -1,0 +1,12 @@
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\bin\Debug\net10.0\DeribitPricer.Metier.deps.json
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\bin\Debug\net10.0\DeribitPricer.Metier.dll
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\bin\Debug\net10.0\DeribitPricer.Metier.pdb
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.AssemblyInfoInputs.cache
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.AssemblyInfo.cs
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.csproj.CoreCompileInputs.cache
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.dll
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\refint\DeribitPricer.Metier.dll
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.pdb
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\ref\DeribitPricer.Metier.dll
+c:\Users\Doryan\Desktop\EIF M2\C#\Projet_V2\DeribitPricer.Metier\obj\Debug\net10.0\DeribitPricer.Metier.csproj.AssemblyReference.cache
